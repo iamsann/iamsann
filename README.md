@@ -1,8 +1,8 @@
 ### Hello, i'm Sandy and i'm physics student at IFCE :)
 <div align="center">
   <a href="https://msha.ke/iamsann/">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=iamsann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsann&layout=compact&langs_count=7&theme=radical"/>
+  <img height="124em" src="https://github-readme-stats.vercel.app/api?username=iamsann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="124em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsann&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="San-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
