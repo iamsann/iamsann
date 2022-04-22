@@ -16,6 +16,7 @@
     <a href="https://open.spotify.com/user/3lr4wwxc7cl2dckxgrmz05ktu?si=i0srrWuBSAeJ-S1I1WoiJA&utm_source=copy-link&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href="https://t.me/iamsaan" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
    <a href = "mailto:imsann7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/iamsann/iamsann/blob/output/github-contribution-grid-snake.svg)
+    
+   ![Snake animation](https://github.com/iamsann/iamsann/blob/output/github-contribution-grid-snake.svg)
     
 </div> 
