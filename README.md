@@ -1,4 +1,4 @@
-### olá, sou a Sandy, aspirante a Cientista e estudante de Eletrotécnica ;)
+### olá, sou a Sandy, estudante de Ciências de Dados e Eletrotécnica, com ênfase em Energias Renováveis.
 <div align="center">
   <a href="https://msha.ke/iamsann/">
   <img height="124em" src="https://github-readme-stats.vercel.app/api?username=iamsann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
