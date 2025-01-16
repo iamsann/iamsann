@@ -1,4 +1,4 @@
-### Hello, i'm Sandy, researcher and physics student at IFCE :)
+### olá, sou a Sandy, aspirante a Cientista e estudante de Eletrotécnica ;)
 <div align="center">
   <a href="https://msha.ke/iamsann/">
   <img height="124em" src="https://github-readme-stats.vercel.app/api?username=iamsann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
